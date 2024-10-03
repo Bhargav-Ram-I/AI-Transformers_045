@@ -1,2 +1,4 @@
-for i in range(1,10):
-    print(i)
+import pandas as pd
+import streamlit as st
+
+st.sidebar.title("Filters")
